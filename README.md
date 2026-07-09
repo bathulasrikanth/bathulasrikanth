@@ -176,14 +176,17 @@ GitHub:
 https://github.com/bathulasrikanth
 
 LinkedIn:
-(Add Link)
+https://www.linkedin.com/in/bathula-srikanth/
 
 Portfolio:
 (Coming Soon)
 
 Email:
-your-email@example.com
+srikanthirupathaiah@gmail.com
+bathulasrikanth.dev@gmail.com
 
+instagram:
+https://www.instagram.com/iamsrikanth28
 ---
 
 ⭐ Thanks for visiting my profile!
