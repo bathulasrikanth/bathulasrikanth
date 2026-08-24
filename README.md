@@ -2,77 +2,122 @@
 
 ## 🚀 Python Backend Developer | Django • FastAPI • REST APIs | AI-Assisted Developer
 
-I build **secure, scalable, and production-ready web applications** using Python, Django, FastAPI, REST APIs, and modern AI-assisted development workflows.
+I build **secure, scalable, and production-ready web applications** using Python, Django, FastAPI, REST APIs, databases, and modern AI-assisted development workflows.
 
-I focus on solving real-world business problems through **clean architecture, reliable APIs, database design, automation, and scalable software systems**.
+I focus on solving **real-world business problems** through clean architecture, reliable APIs, database design, automation, and scalable software systems.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science & Engineering
 * 💼 Python Backend Developer
 * 🐍 Specialized in Python, Django & FastAPI
-* 🔌 Experienced in REST API development and integrations
-* 🗄️ Database design and backend architecture
-* 🤖 AI-assisted software development
-* 🚀 Building production-ready business applications
-* 🌱 Continuously learning Cloud, DevOps, System Design & AI
+* 🔌 REST API Development
+* 🗄️ Database Design & Backend Architecture
+* 🤖 AI-Assisted Software Development
+* 🚀 Production-Ready Web Applications
+* 🌐 Business Software & SaaS Applications
+* ☁️ Learning Cloud & DevOps
+* 🧠 Exploring AI Agents & AI-powered applications
 * 📍 India
-* 💼 Open to Freelance Projects, Collaborations & Opportunities
+* 💼 Open to Freelance Projects & Collaboration
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p align="left">
 
-### Backend
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+</p>
 
-### Databases
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+## ⚙️ Backend Development
 
-### Tools & Platforms
+<p align="left">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+
+</p>
+
+* Python
+* Django
+* Django REST Framework
+* FastAPI
+* REST APIs
+* JWT Authentication
+* Authentication & Authorization
+* Role-Based Access Control
+* API Integration
+* Backend Architecture
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+
+</p>
+
+* MySQL
+* PostgreSQL
+* SQLite
+* Database Design
+* Relationships
+* Query Optimization
+* Data Modeling
+
+---
+
+## 🌐 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+</p>
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* API Integration
+* Backend-Driven Web Applications
+
+---
+
+## 🔧 Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+
+</p>
+
+* Git
+* GitHub
+* Docker
+* Linux
+* VS Code
+* Postman
+* REST API Testing
+* GitHub Actions
+* CI/CD
 
 ---
 
 # 🤖 AI-Assisted Development
 
-I use modern AI development tools to accelerate:
+I use modern AI development tools to improve development speed, productivity, debugging, testing, documentation, and software quality.
 
-* Requirements analysis
-* Project planning
-* Architecture design
-* Database design
-* API development
-* Debugging
-* Refactoring
-* Testing
-* Documentation
-* Code reviews
-* Deployment workflows
-
-### AI Toolkit
+### 🧠 AI Toolkit
 
 * ChatGPT
 * Claude Code
@@ -80,7 +125,23 @@ I use modern AI development tools to accelerate:
 * GitHub Copilot
 * Antigravity AI
 
-AI is used as a development accelerator — while **architecture, security, testing, code quality, and final implementation decisions remain under my responsibility.**
+### 🚀 How I Use AI
+
+* Requirements Analysis
+* Project Planning
+* Software Architecture
+* Database Design
+* API Development
+* Code Generation
+* Debugging
+* Refactoring
+* Code Review
+* Test Generation
+* Documentation
+* Performance Optimization
+* Deployment Assistance
+
+> AI accelerates my development workflow, while architecture, security, testing, code quality, and final implementation decisions remain under my responsibility.
 
 ---
 
@@ -88,205 +149,327 @@ AI is used as a development accelerator — while **architecture, security, test
 
 ## 🏨 StayHub — SaaS Hotel & PG Booking Platform
 
-A scalable platform for hotel, hostel and PG property management and bookings.
+A scalable platform designed for hotel, hostel, and PG property management and bookings.
 
-### Features
+### ✨ Features
 
 * JWT Authentication
+* User Management
 * Role-Based Access Control
 * Vendor Management
 * Property Listings
 * Room Management
 * Booking Management
 * Admin Dashboard
-* REST APIs
+* Secure REST APIs
 * Database Management
 
-**Tech Stack:** Python • Django • Django REST Framework • MySQL • JWT
+### 🛠️ Tech Stack
+
+**Python • Django • Django REST Framework • MySQL • JWT**
 
 ---
 
-## 📄 Resume Analyzer & ATS Scoring System
+# 📄 Resume Analyzer & ATS Scoring System
 
 An AI-powered resume analysis platform that evaluates resumes against job descriptions.
 
-### Features
+### ✨ Features
 
 * Resume Parsing
 * ATS Compatibility Score
 * Job Description Matching
 * Missing Skills Detection
-* AI-Powered Suggestions
 * Resume Analysis
+* AI-Powered Suggestions
+* Skill Gap Analysis
 
-**Tech Stack:** Python • FastAPI • MySQL • AI APIs
+### 🛠️ Tech Stack
+
+**Python • FastAPI • MySQL • AI APIs**
 
 ---
 
-## ☕ Cafe Management System
+# ☕ Cafe Management System
 
-A complete restaurant management application for managing daily cafe operations.
+A complete restaurant management system designed to manage daily cafe operations.
 
-### Features
+### ✨ Features
 
-* Authentication
+* User Authentication
 * Role-Based Access
 * Order Management
 * Inventory Management
 * Admin Dashboard
 * Database Management
+* Business Management
 
-**Tech Stack:** Python • Django • MySQL
+### 🛠️ Tech Stack
 
----
-
-# 📊 GitHub Activity
-
-I actively use Git and GitHub for:
-
-* 🚀 Feature development
-* 🐛 Bug fixing
-* 🔧 Refactoring
-* 🧪 Testing
-* 📝 Documentation
-* 🔀 Branch management
-* 🔄 Pull requests
-* 📦 Production releases
-* 🤝 Collaboration
-
-### 🔥 My GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bathulasrikanth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathulasrikanth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathulasrikanth&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-### 📈 Contribution Graph
-
-My complete contribution history, including commits across my GitHub repositories, is available on my GitHub profile:
-
-👉 **[View My GitHub Contributions](https://github.com/bathulasrikanth)**
-
----
-
-# 📌 GitHub Profile
-
-### 🔗 GitHub
-
-**[github.com/bathulasrikanth](https://github.com/bathulasrikanth)**
-
-Check my repositories, commits, projects, pull requests and contribution activity.
-
----
-
-# 🌱 Currently Learning
-
-* Advanced FastAPI
-* Docker
-* CI/CD
-* AWS
-* System Design
-* DevOps
-* Cloud-Native Development
-* Next.js
-* AI Agent Development
-* Production Backend Architecture
+**Python • Django • MySQL**
 
 ---
 
 # 💼 Services
 
-I can help businesses and startups with:
+I help startups, businesses, and entrepreneurs build custom software solutions.
+
+### 🌐 Web Development
 
 * Custom Business Websites
+* Web Applications
+* Business Portals
+* SaaS MVP Development
+
+### 🐍 Python Development
+
 * Django Development
 * FastAPI Development
-* REST API Development
 * Backend Development
-* Admin Dashboards
-* Authentication & Authorization
+* REST API Development
+
+### 🔌 API & Integration
+
+* REST API Development
+* Third-Party API Integration
+* Authentication APIs
+* Payment API Integration
+* WhatsApp/API Integrations
+
+### 🗄️ Database
+
 * Database Design
-* API Integrations
+* MySQL
+* PostgreSQL
+* SQLite
+* Query Optimization
+
+### 🛠️ Maintenance
+
 * Bug Fixing
 * Performance Optimization
-* SaaS MVP Development
-* Deployment & Maintenance
+* Deployment
+* Maintenance
+* Refactoring
+* Technical Support
+
+---
+
+# 📊 GitHub Statistics
+
+## 🔥 Overall GitHub Stats
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=bathulasrikanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight"
+alt="Bathula Srikanth GitHub Stats"
+/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=bathulasrikanth&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"
+/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathulasrikanth&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
+alt="Most Used Languages"
+/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<p align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=bathulasrikanth&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Contribution Activity"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=bathulasrikanth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+alt="GitHub Trophies"
+/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+I actively use GitHub for:
+
+* 🚀 Feature Development
+* 🐛 Bug Fixing
+* 🔧 Refactoring
+* 🧪 Testing
+* 📝 Documentation
+* 🔀 Branch Management
+* 🔄 Pull Requests
+* 📦 Production Releases
+* 🤝 Team Collaboration
+* 💻 Open Source Development
+
+### 📌 GitHub Profile
+
+<a href="https://github.com/bathulasrikanth">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bathulasrikanth?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20All-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bathulasrikanth?tab=followers">
+<img src="https://img.shields.io/badge/Followers-View-0366d6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# 📌 GitHub Contribution History
+
+### 🔥 My GitHub
+
+**Profile**
+
+https://github.com/bathulasrikanth
+
+**Repositories**
+
+https://github.com/bathulasrikanth?tab=repositories
+
+**Commit Activity**
+
+https://github.com/bathulasrikanth?tab=overview
+
+**Pull Requests**
+
+https://github.com/bathulasrikanth?tab=pulls
+
+**Issues**
+
+https://github.com/bathulasrikanth?tab=issues
+
+> My GitHub profile contains my contribution history, repositories, commits, pull requests, issues, and development activity.
+
+---
+
+# 🌱 Currently Learning
+
+* 🚀 Advanced FastAPI
+* 🐳 Docker
+* 🔄 CI/CD
+* ☁️ AWS Cloud
+* 🧠 System Design
+* ⚙️ DevOps Fundamentals
+* 🌐 Cloud-Native Development
+* ⚡ Next.js
+* 🤖 AI Agent Development
+* 🏗️ Scalable Backend Architecture
+* 🔐 Production Security
+
+---
+
+# 🎯 Current Goals
+
+* 🚀 Build production-ready software
+* 💼 Expand my freelance development business
+* 🌍 Work with international clients
+* 🤝 Contribute to open-source projects
+* ☁️ Become stronger in cloud-native development
+* 🤖 Build AI-powered software products
+* 🧠 Improve system design
+* 🏗️ Build scalable backend architectures
+* 📈 Continuously improve engineering practices
 
 ---
 
 # ⭐ Why Work With Me?
 
 * ✅ Clean & Maintainable Code
-* ✅ Scalable Backend Architecture
-* ✅ Secure API Development
+* ✅ Scalable Architecture
+* ✅ Secure Backend Development
+* ✅ REST API Expertise
 * ✅ AI-Assisted Faster Development
 * ✅ Professional Communication
 * ✅ Regular Progress Updates
 * ✅ Business-Oriented Solutions
 * ✅ Testing & Debugging
+* ✅ Performance Optimization
 * ✅ On-Time Delivery
 * ✅ Post-Delivery Support
 
 ---
 
-# 📢 Available for Freelance Work
+# 💼 Available for Freelance Work
 
-I'm available for:
+I'm currently available for:
 
-* Python Development
-* Django Projects
-* FastAPI APIs
-* REST API Development
-* Custom Web Applications
-* SaaS MVP Development
-* API Integrations
-* Backend Development
-* Business Automation
+* 🐍 Python Development
+* 🚀 Django Projects
+* ⚡ FastAPI APIs
+* 🔌 REST API Development
+* 🌐 Business Websites
+* 💻 Custom Web Applications
+* 🏢 Business Software
+* 🚀 SaaS MVP Development
+* 🔗 API Integrations
+* 🗄️ Backend Development
+* 🤖 AI-Powered Applications
+* ⚙️ Automation Solutions
 
-If you're looking for a developer to turn your business idea into a working product, feel free to connect.
-
----
-
-# 📈 Current Goals
-
-* 🚀 Build production-ready software
-* 💼 Expand my freelance business
-* 🌍 Work with international clients
-* 🤝 Contribute to open-source projects
-* ☁️ Become stronger in cloud-native development
-* 🤖 Build AI-powered software products
-* 🧠 Improve system design and backend architecture
+If you're looking for a developer to turn your business idea into a reliable software product, feel free to connect.
 
 ---
 
 # 📫 Connect With Me
 
-### GitHub
+### 💻 GitHub
 
-🔗 https://github.com/bathulasrikanth
+https://github.com/bathulasrikanth
 
-### LinkedIn
+### 💼 LinkedIn
 
-🔗 https://www.linkedin.com/in/bathula-srikanth/
+https://www.linkedin.com/in/bathula-srikanth/
 
-### Email
+### 📧 Email
 
-📧 [bathulasrikanth.dev@gmail.com](mailto:bathulasrikanth.dev@gmail.com)
+[bathulasrikanth.dev@gmail.com](mailto:bathulasrikanth.dev@gmail.com)
 
-### Instagram
+### 📸 Instagram
 
-🔗 https://www.instagram.com/iamsrikanth28
+https://www.instagram.com/iamsrikanth28
 
-### Portfolio
+### 🌐 Portfolio
 
-🚀 Coming Soon
+Coming Soon 🚀
 
 ---
 
@@ -294,22 +477,46 @@ If you're looking for a developer to turn your business idea into a working prod
 
 > **"Technology should solve business problems, not create complexity."**
 
-I believe in building software that is:
+I believe good software should be:
 
 **Simple → Secure → Scalable → Maintainable → Business-Focused**
 
-By combining strong engineering practices with modern AI-assisted development tools, I aim to build reliable software faster without compromising quality.
+I combine strong software engineering practices with modern AI-assisted development tools to build reliable software efficiently without compromising quality.
 
 ---
 
-<h3 align="center">
-  🚀 Build. Learn. Improve. Repeat.
-</h3>
+# 🚀 My Development Journey
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Test
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Deploy
+  ↓
+Maintain
+  ↓
+Repeat
+```
+
+---
+
+<h2 align="center">🚀 Build. Learn. Improve. Repeat.</h2>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  <b>Let's build something amazing together.</b>
+  ⭐ If you like my work, consider starring my repositories.
+</p>
+
+<p align="center">
+  <b>Let's build something amazing together. 🚀</b>
 </p>
