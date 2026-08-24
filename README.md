@@ -1,100 +1,78 @@
 # 👋 Hi, I'm Bathula Srikanth
 
-# 🚀 Python Backend Developer | Django • FastAPI • REST APIs | AI-Assisted Full Stack Developer
+## 🚀 Python Backend Developer | Django • FastAPI • REST APIs | AI-Assisted Developer
 
-I build secure, scalable, and production-ready web applications for startups, businesses, and entrepreneurs using Python, Django, FastAPI, and modern AI-assisted development workflows.
+I build **secure, scalable, and production-ready web applications** using Python, Django, FastAPI, REST APIs, and modern AI-assisted development workflows.
 
-I'm passionate about solving real-world business problems through clean architecture, efficient APIs, and modern web technologies while delivering high-quality software on time.
+I focus on solving real-world business problems through **clean architecture, reliable APIs, database design, automation, and scalable software systems**.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science & Engineering
 * 💼 Python Backend Developer
-* 🚀 Specializing in Django, FastAPI & REST APIs
-* 🌐 Building scalable business web applications
-* 🤖 AI-Assisted Developer focused on productivity and quality
-* 📚 Continuously learning modern backend, cloud, and AI technologies
+* 🐍 Specialized in Python, Django & FastAPI
+* 🔌 Experienced in REST API development and integrations
+* 🗄️ Database design and backend architecture
+* 🤖 AI-assisted software development
+* 🚀 Building production-ready business applications
+* 🌱 Continuously learning Cloud, DevOps, System Design & AI
 * 📍 India
-* 📩 Open to Freelance Projects & Collaboration
+* 💼 Open to Freelance Projects, Collaborations & Opportunities
 
 ---
 
-# 💼 Services
+# 🛠️ Tech Stack
 
-✔ Custom Business Websites
+### Languages
 
-✔ Web Application Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-✔ Django Development
+### Backend
 
-✔ FastAPI Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-✔ REST API Development
+### Databases
 
-✔ Admin Dashboards
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-✔ Authentication & Authorization
+### Tools & Platforms
 
-✔ Database Design
-
-✔ API Integration
-
-✔ Bug Fixing
-
-✔ Performance Optimization
-
-✔ Deployment & Maintenance
-
-✔ SaaS MVP Development
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-* Python
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-
-## Backend
-
-* Django
-* Django REST Framework
-* FastAPI
-
-## Frontend
-
-* HTML
-* CSS
-* JavaScript
-
-## Databases
-
-* MySQL
-* PostgreSQL
-* SQLite
-
-## Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* Docker
-* VS Code
-* Linux
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
 # 🤖 AI-Assisted Development
 
-I leverage modern AI development tools to accelerate planning, implementation, debugging, testing, documentation, and code reviews while maintaining full responsibility for software architecture, security, performance, and code quality.
+I use modern AI development tools to accelerate:
 
-## AI Toolkit
+* Requirements analysis
+* Project planning
+* Architecture design
+* Database design
+* API development
+* Debugging
+* Refactoring
+* Testing
+* Documentation
+* Code reviews
+* Deployment workflows
+
+### AI Toolkit
 
 * ChatGPT
 * Claude Code
@@ -102,43 +80,15 @@ I leverage modern AI development tools to accelerate planning, implementation, d
 * GitHub Copilot
 * Antigravity AI
 
-## How I Use AI
-
-✅ Requirements Analysis
-
-✅ Project Planning
-
-✅ Software Architecture
-
-✅ Database Design
-
-✅ REST API Development
-
-✅ Code Generation
-
-✅ Code Reviews
-
-✅ Debugging
-
-✅ Refactoring
-
-✅ Performance Optimization
-
-✅ Test Generation
-
-✅ Documentation
-
-✅ Deployment Assistance
-
-Every solution is carefully reviewed, tested, optimized, and customized before delivery to ensure production-ready quality.
+AI is used as a development accelerator — while **architecture, security, testing, code quality, and final implementation decisions remain under my responsibility.**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏨 StayHub – SaaS Hotel & PG Booking Platform
+## 🏨 StayHub — SaaS Hotel & PG Booking Platform
 
-A scalable SaaS platform for hotel, hostel, and PG bookings.
+A scalable platform for hotel, hostel and PG property management and bookings.
 
 ### Features
 
@@ -146,20 +96,19 @@ A scalable SaaS platform for hotel, hostel, and PG bookings.
 * Role-Based Access Control
 * Vendor Management
 * Property Listings
-* Room Booking
+* Room Management
 * Booking Management
 * Admin Dashboard
-* Secure REST APIs
+* REST APIs
+* Database Management
 
-**Tech Stack**
-
-Python • Django • Django REST Framework • MySQL • JWT
+**Tech Stack:** Python • Django • Django REST Framework • MySQL • JWT
 
 ---
 
 ## 📄 Resume Analyzer & ATS Scoring System
 
-AI-powered resume analysis platform that evaluates resumes against job descriptions.
+An AI-powered resume analysis platform that evaluates resumes against job descriptions.
 
 ### Features
 
@@ -168,28 +117,72 @@ AI-powered resume analysis platform that evaluates resumes against job descripti
 * Job Description Matching
 * Missing Skills Detection
 * AI-Powered Suggestions
+* Resume Analysis
 
-**Tech Stack**
-
-Python • FastAPI • MySQL • AI APIs
+**Tech Stack:** Python • FastAPI • MySQL • AI APIs
 
 ---
 
 ## ☕ Cafe Management System
 
-A complete restaurant management system.
+A complete restaurant management application for managing daily cafe operations.
 
 ### Features
 
-* User Authentication
-* Inventory Management
+* Authentication
 * Role-Based Access
 * Order Management
+* Inventory Management
 * Admin Dashboard
+* Database Management
 
-**Tech Stack**
+**Tech Stack:** Python • Django • MySQL
 
-Python • Django • MySQL
+---
+
+# 📊 GitHub Activity
+
+I actively use Git and GitHub for:
+
+* 🚀 Feature development
+* 🐛 Bug fixing
+* 🔧 Refactoring
+* 🧪 Testing
+* 📝 Documentation
+* 🔀 Branch management
+* 🔄 Pull requests
+* 📦 Production releases
+* 🤝 Collaboration
+
+### 🔥 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bathulasrikanth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathulasrikanth&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathulasrikanth&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+### 📈 Contribution Graph
+
+My complete contribution history, including commits across my GitHub repositories, is available on my GitHub profile:
+
+👉 **[View My GitHub Contributions](https://github.com/bathulasrikanth)**
+
+---
+
+# 📌 GitHub Profile
+
+### 🔗 GitHub
+
+**[github.com/bathulasrikanth](https://github.com/bathulasrikanth)**
+
+Check my repositories, commits, projects, pull requests and contribution activity.
 
 ---
 
@@ -198,93 +191,125 @@ Python • Django • MySQL
 * Advanced FastAPI
 * Docker
 * CI/CD
-* AWS Cloud
-* Next.js
+* AWS
 * System Design
-* DevOps Fundamentals
+* DevOps
+* Cloud-Native Development
+* Next.js
 * AI Agent Development
+* Production Backend Architecture
+
+---
+
+# 💼 Services
+
+I can help businesses and startups with:
+
+* Custom Business Websites
+* Django Development
+* FastAPI Development
+* REST API Development
+* Backend Development
+* Admin Dashboards
+* Authentication & Authorization
+* Database Design
+* API Integrations
+* Bug Fixing
+* Performance Optimization
+* SaaS MVP Development
+* Deployment & Maintenance
 
 ---
 
 # ⭐ Why Work With Me?
 
-✔ Clean & Maintainable Code
-
-✔ Scalable Architecture
-
-✔ AI-Assisted Faster Development
-
-✔ Professional Communication
-
-✔ Responsive Development
-
-✔ Regular Progress Updates
-
-✔ Secure Backend Development
-
-✔ On-Time Delivery
-
-✔ Post-Delivery Support
-
-✔ Business-Oriented Solutions
+* ✅ Clean & Maintainable Code
+* ✅ Scalable Backend Architecture
+* ✅ Secure API Development
+* ✅ AI-Assisted Faster Development
+* ✅ Professional Communication
+* ✅ Regular Progress Updates
+* ✅ Business-Oriented Solutions
+* ✅ Testing & Debugging
+* ✅ On-Time Delivery
+* ✅ Post-Delivery Support
 
 ---
 
 # 📢 Available for Freelance Work
 
-I'm currently available for:
+I'm available for:
 
 * Python Development
 * Django Projects
 * FastAPI APIs
-* Business Websites
+* REST API Development
 * Custom Web Applications
 * SaaS MVP Development
 * API Integrations
 * Backend Development
+* Business Automation
 
-If you're looking for a reliable developer to build scalable web applications, I'd be happy to discuss your project.
+If you're looking for a developer to turn your business idea into a working product, feel free to connect.
 
 ---
 
 # 📈 Current Goals
 
-* Building production-ready software
-* Expanding my freelance business
-* Contributing to open-source projects
-* Learning cloud-native development
-* Exploring AI-powered software engineering
-* Delivering high-quality digital products
+* 🚀 Build production-ready software
+* 💼 Expand my freelance business
+* 🌍 Work with international clients
+* 🤝 Contribute to open-source projects
+* ☁️ Become stronger in cloud-native development
+* 🤖 Build AI-powered software products
+* 🧠 Improve system design and backend architecture
 
 ---
 
 # 📫 Connect With Me
 
-**GitHub**
-https://github.com/bathulasrikanth
+### GitHub
 
-**LinkedIn**
-https://www.linkedin.com/in/bathula-srikanth/
+🔗 https://github.com/bathulasrikanth
 
-**Portfolio**
-Coming Soon 🚀
+### LinkedIn
 
-**Email**
-[bathulasrikanth.dev@gmail.com](mailto:bathulasrikanth.dev@gmail.com)
+🔗 https://www.linkedin.com/in/bathula-srikanth/
 
-**Instagram**
-https://www.instagram.com/iamsrikanth28
+### Email
+
+📧 [bathulasrikanth.dev@gmail.com](mailto:bathulasrikanth.dev@gmail.com)
+
+### Instagram
+
+🔗 https://www.instagram.com/iamsrikanth28
+
+### Portfolio
+
+🚀 Coming Soon
 
 ---
 
 # 💡 Development Philosophy
 
-> "Technology should solve business problems, not create complexity."
+> **"Technology should solve business problems, not create complexity."**
 
-I believe in writing clean, maintainable, and scalable software. By combining strong engineering practices with modern AI-assisted development tools, I deliver reliable solutions more efficiently while ensuring every line of code is reviewed, tested, and production-ready.
+I believe in building software that is:
+
+**Simple → Secure → Scalable → Maintainable → Business-Focused**
+
+By combining strong engineering practices with modern AI-assisted development tools, I aim to build reliable software faster without compromising quality.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<h3 align="center">
+  🚀 Build. Learn. Improve. Repeat.
+</h3>
 
-If you're looking for a Python Backend Developer to build your next web application, feel free to connect. Let's build something amazing together! 🚀
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <b>Let's build something amazing together.</b>
+</p>
